@@ -1,5 +1,5 @@
 
-![Logo](https://dotify-music.web.app/assets/dotify_text_logo.png)
+![Logo](src/assets/dotify_text_logo.png)
 
 
 # Dotify - a music streaming app
@@ -9,7 +9,7 @@ A music streaming application based on spotify app desgn and rapid api.
 
 ## Screenshots
 
-![App Screenshot](https://dotify-music.web.app/assets/screenshot.png)
+![App Screenshot](src/assets/screenshot.png)
 
 
 
