@@ -7,7 +7,7 @@
 A music streaming application based on spotify app desgn and rapid api.
 
 
-## Screenshots
+## Screenshot
 
 ![App Screenshot](src/assets/screenshot.png)
 
